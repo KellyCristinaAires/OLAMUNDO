@@ -1,0 +1,13 @@
+C:\Users\kelly\Documents\atividadespc1\atividadeolamundo\bin\Debug\netcoreapp3.1\atividadeolamundo.exe
+C:\Users\kelly\Documents\atividadespc1\atividadeolamundo\bin\Debug\netcoreapp3.1\atividadeolamundo.deps.json
+C:\Users\kelly\Documents\atividadespc1\atividadeolamundo\bin\Debug\netcoreapp3.1\atividadeolamundo.runtimeconfig.json
+C:\Users\kelly\Documents\atividadespc1\atividadeolamundo\bin\Debug\netcoreapp3.1\atividadeolamundo.runtimeconfig.dev.json
+C:\Users\kelly\Documents\atividadespc1\atividadeolamundo\bin\Debug\netcoreapp3.1\atividadeolamundo.dll
+C:\Users\kelly\Documents\atividadespc1\atividadeolamundo\bin\Debug\netcoreapp3.1\atividadeolamundo.pdb
+C:\Users\kelly\Documents\atividadespc1\atividadeolamundo\obj\Debug\netcoreapp3.1\atividadeolamundo.csprojAssemblyReference.cache
+C:\Users\kelly\Documents\atividadespc1\atividadeolamundo\obj\Debug\netcoreapp3.1\atividadeolamundo.AssemblyInfoInputs.cache
+C:\Users\kelly\Documents\atividadespc1\atividadeolamundo\obj\Debug\netcoreapp3.1\atividadeolamundo.AssemblyInfo.cs
+C:\Users\kelly\Documents\atividadespc1\atividadeolamundo\obj\Debug\netcoreapp3.1\atividadeolamundo.csproj.CoreCompileInputs.cache
+C:\Users\kelly\Documents\atividadespc1\atividadeolamundo\obj\Debug\netcoreapp3.1\atividadeolamundo.dll
+C:\Users\kelly\Documents\atividadespc1\atividadeolamundo\obj\Debug\netcoreapp3.1\atividadeolamundo.pdb
+C:\Users\kelly\Documents\atividadespc1\atividadeolamundo\obj\Debug\netcoreapp3.1\atividadeolamundo.genruntimeconfig.cache
